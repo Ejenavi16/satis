@@ -1,4 +1,4 @@
-Entity,Code,Year,Cantril ladder score,"GDP per capita, PPP (constant 2017 international $)",Population (historical estimates),Continent
+Entity,Code,Year,Cantril_ladder_score,"GDP_per_capita, PPP (constant 2017 international $)",Population,Continent
 Abkhazia,OWID_ABK,2015,,,,Asia
 Afghanistan,AFG,2015,2.6617181,2068.265869,33753500,Asia
 Africa,,2015,,,1201108186,
